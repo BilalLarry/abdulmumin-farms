@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abdulmumin-farms.netlify.app/sitemap.xml
